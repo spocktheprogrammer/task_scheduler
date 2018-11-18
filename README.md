@@ -22,9 +22,3 @@ EndPoints
 /averagetime/    -      Take input as current time in milliseconds. 
 						Returns average waiting time for the ID's waiting in the Queue. 
 						
-						
-/gethighestid		-	Returns insertion time of ID and Highest task ID present in the Queue and remove's it. 						
-						
-							
-
-
