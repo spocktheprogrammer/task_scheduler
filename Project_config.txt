@@ -1,0 +1,9 @@
+Project Configuration
+
+
+Below are the required tools for the Project Configuration. 
+
+Jersey 1.19
+JDK 1.6
+Maven 3.0.3
+Tomcat Server 8.0
